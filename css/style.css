@@ -7406,7 +7406,7 @@ figcaption {
 .gallery-slider {
   position: relative;
   padding: 80px 30px;
-  border-bottom: 1px solid #e4ebf3;
+  border-bottom: 0px solid #e4ebf3;
 }
 
 .gallery-wrapper {

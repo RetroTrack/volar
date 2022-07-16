@@ -4,7 +4,7 @@ var url = "https://api.minetools.eu/ping/play.volar.ga"; //insert  server here
 $.getJSON(url, function(r) {
   //data is the JSON string
   if (r.error) {
-    $('#rest-survival').html('<br><br><b><br><br><font color= "#E74C3C">Server Offline</b><br><br>);
+    $('#rest-survival').html('<br><br><b><br><br><font color= "#E74C3C">Server Offline</b><br><br>');
     return false;
   }
   var pl = '';

@@ -42,7 +42,7 @@ html {
 .image {
   width: 120%;
   height: 180px;
-  cursor: crosshair;
+  cursor: pointer;
   overflow: hidden;
 }
 
